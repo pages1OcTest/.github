@@ -82,13 +82,13 @@ The rapid pace of technological advancement and globalization has created an unp
 <h1 align="center">Why Use OcNest AI?</h1>
 <h3>Problem We Solve</h3>
 <h4>The challenge of information overload manifests in several key ways:</h4>
-<h3>1. Technical Complexity:</h3>
+<h4>1. Technical Complexity:</h4>
 <p>Many fields, from science and technology to law and finance, utilize specialized jargon and complex concepts that are difficult for non-experts to understand.</p>
-<h3>2. Data Volume and Velocity:</h3>
+<h4>2. Data Volume and Velocity:</h4>
 <p>The sheer volume of data generated daily is overwhelming. This constant influx of information makes it difficult to filter out noise and identify relevant insights.</p>
-<h3>3. Data Heterogeneity:</h3>
+<h4>3. Data Heterogeneity:</h4>
 <p>Information comes from various sources and formats, including text, code, images, audio, and video. Integrating and analyzing this diverse data is a significant hurdle.</p>
-<h3>4. Rapid Evolution:</h3>
+<h4>4. Rapid Evolution:</h4>
 <p>Many fields are constantly evolving, with new research, regulations, and technologies emerging frequently. Staying up-to-date requires continuous learning and adaptation.</p>
 
 
