@@ -125,3 +125,7 @@ The rapid pace of technological advancement and globalization has created an unp
 <h3>Mission:</h3>
 <p>To develop and deliver cutting-edge AI-powered solutions that transform complex data into easily digestible and actionable intelligence, fostering informed decision-making across all domains.</p>
 
+<h1>Dynamic Staking with OcNest AI</h1>
+<p>What is Dynamic Staking? Dynamic staking with OcNest AI allows you to deposit and withdraw your crypto assets, specifically $OCAI, at any time without any time lock. Rewards can vary as they are not fixed by a stable APY. Instead, rewards in wrapped ETH ($wETH) are earned continuously and can be claimed whenever you prefer.</p>
+
+
