@@ -125,6 +125,66 @@ The rapid pace of technological advancement and globalization has created an unp
 <h3>Mission:</h3>
 <p>To develop and deliver cutting-edge AI-powered solutions that transform complex data into easily digestible and actionable intelligence, fostering informed decision-making across all domains.</p>
 
+
+<h1 align="center">Tokenomics</h1>
+<h3>Ticker: $OCAI</h3>
+<h3>Blockchain: Ethereum</h3>
+<h3>Security and Locks</h3>
+<h3>Liquidity Pool (LP): Initially locked for 1 year</h3>
+<h3>Total Supply: 10,000,000 $OCAI</h3>
+
+| Purpose  | Percentage | $OCAI Amount |
+| ------------- | ------------- | ------------- |
+| Liquidity Pool  | 80%  | 8,000,000  |
+| Marketingl  | 5%  | 500,0000  |
+| Ecosystem | 5%  | 500,0000  |
+| Listing  | 5%  | 500,0000  |
+| Treasury | 5%  | 500,0000  |
+
+<h3>Liquidity Pool: 8,000,000 $OCAI (80%)</h3>
+<p>Allocated to the liquidity pool to facilitate smooth trading and liquidity provision. Locked for 12 months to maintain market stability and safeguard investors.</p>
+<h3>Distribution Supply: 2,000,000 $OCAI (20%)</h3>
+<p>Allocations:</p>
+<h3>5% Marketing: Fueling market initiatives</h3>
+<p>These funds will support strategic campaigns, partnerships, influencer collaborations, and user acquisition efforts to promote the global adoption of OcNest AI. The aim is to bolster OcNest AI's presence in both the Web3 and AI spaces.</p>
+
+<h3>5% Ecosystem: Dedicated to research and development</h3>
+<p>This allocation will drive continuous innovation and enhancement of OcNest, supporting technical advancements, feature improvements, AI refinement for actionable data for AGI within a decentralized ecosystem, as well as infrastructure scalability and security upgrades. This ensures the platform leads in innovation.</p>
+
+<h3>5% Listing: Enhancing accessibility and liquidity</h3>
+<h4>This allocation covers the costs associated with listing OcNest on various cryptocurrency exchanges. Benefits of listing include:</h4>
+
+<h4>1. Increased Visibility:</h4>
+<p>Expanding reach to a wider audience of potential users and investors.</p>
+<h4>2. Improved Liquidity:</h4>
+<p>Facilitating easier buying and selling of the token for a healthier market.</p>
+<h4>3. Enhanced Accessibility:</h4>
+<p>Making the token more accessible to users globally.</p>
+<p>This initiative strategically supports the platform’s long-term growth and adoption.</p>
+<h4>5% Treasury:</h4>
+<p>Allocated to the Treasury Strategic Reserve for ecosystem growth
+This reserve backs ongoing development and marketing, essential for OcNest’s long-term success. Funds will be used strategically for innovation, user acquisition, and platform stability, ensuring competitiveness and continued growth.</p>
+
+<h3>Trading Tax</h3>
+<p>A 5% buy and sell tax is implemented (with a 0% transfer tax).</p>
+
+<h3>Transaction Tax</h3>
+<p>To ensure the long-term sustainability and development of OcNest, a transaction tax is imposed on $OCAI transactions. The tax will be used to:</p>
+<h4>Cover Operating Costs:</h4>
+<p>Supporting infrastructure, team operations, and platform development.</p>
+<h4>Operational Staking Rewards:</h4>
+<p>Implementing a dynamic staking platform with $wETH rewards.</p>
+<h4>Maintain Ecosystem Health:</h4>
+<p>Supporting the growth and sustainability of the decentralized infrastructure.</p>
+<p>The tax mechanism ensures OcNest remains operational and scalable, benefiting the community.</p>
+
+<h3>Increase Liquidity:</h3>
+<p>The primary allocation ensures robust liquidity, promoting a seamless trading experience and maintaining market stability. This commitment guarantees accessible and transparent token transactions for all participants.</p>
+<h3>Marketing:</h3>
+<p>To drive global adoption, funds will support strategic campaigns, partnerships, influencer collaborations, and user acquisition initiatives, with the goal of amplifying OcNest AI’s presence in the AI landscape.</p>
+
+<p>The token distribution is structured to ensure long-term sustainability, incentivize network participation, and cover operational costs via a transaction tax.</p>
+
 <h1 align="center">Dynamic Staking with OcNest AI</h1>
 <p>What is Dynamic Staking? Dynamic staking with OcNest AI allows you to deposit and withdraw your crypto assets, specifically $OCAI, at any time without any time lock. Rewards can vary as they are not fixed by a stable APY. Instead, rewards in wrapped ETH ($wETH) are earned continuously and can be claimed whenever you prefer.</p>
 <h3>How It Works:</h3>
