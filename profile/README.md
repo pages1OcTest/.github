@@ -183,7 +183,7 @@ This reserve backs ongoing development and marketing, essential for OcNest’s l
 <h3>Marketing:</h3>
 <p>To drive global adoption, funds will support strategic campaigns, partnerships, influencer collaborations, and user acquisition initiatives, with the goal of amplifying OcNest AI’s presence in the AI landscape.</p>
 
-<p>The token distribution is structured to ensure long-term sustainability, incentivize network participation, and cover operational costs via a transaction tax.</p>
+<h4>The token distribution is structured to ensure long-term sustainability, incentivize network participation, and cover operational costs via a transaction tax.</h4>
 
 <h1 align="center">Dynamic Staking with OcNest AI</h1>
 <p>What is Dynamic Staking? Dynamic staking with OcNest AI allows you to deposit and withdraw your crypto assets, specifically $OCAI, at any time without any time lock. Rewards can vary as they are not fixed by a stable APY. Instead, rewards in wrapped ETH ($wETH) are earned continuously and can be claimed whenever you prefer.</p>
