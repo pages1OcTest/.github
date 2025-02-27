@@ -26,25 +26,28 @@ platform designed to address this challenge. By leveraging advanced Natural Lang
 
 The rapid pace of technological advancement and globalization has created an unprecedented information challenge. Individuals and organizations across all sectors face the need to process increasingly complex data to make informed decisions. Traditional methods of information processing are often inadequate, leading to information overload, missed opportunities, and potential risks. OcNest AI offers a solution by providing an intelligent platform for processing and visualizing complex information, applicable across diverse fields.  
 </div>
----
-<div>
+<h1></h1>
+
   <h3 align="center">Strategies</h3>
-  <h4>Strategies for Optimizing NLP and LLM Performance on Large-Scale Data</h4>
+  <h3>Strategies for Optimizing NLP and LLM Performance on Large-Scale Data</h3>
   <p>To make sure our natural language processing (NLP) and large language models (LLMs) run smoothly and efficiently when dealing with massive amounts of data, we use several strategies:</p>
-  <h4>Model Optimization:</h4>
+  <h3>Model Optimization:</h3>
   <p>We shrink our models using methods like lowering precision (quantization), cutting out non-essential parts (pruning), and training smaller models using larger ones as a guide (knowledge distillation). This helps us maintain performance while reducing the size and computing power needed.</p>
-  <h4>Efficient Data Handling:</h4>
+  <h3>Efficient Data Handling:</h3>
   <p>We streamline how data is loaded and prepped by grouping data efficiently (batching), storing frequently used data for quick access, and employing fast data structures. These tactics speed up data handling and prevent slowdowns.</p>
-  <h4>Algorithm Improvements:</h4>
+  <h3>Algorithm Improvements:</h3>
   <p>We use effective algorithms for key NLP tasks. For instance, we optimize how we find and process text, like using quick search methods (like locality-sensitive hashing) and fast ways to break down and understand language (tokenization).</p>
-  <h4>Hardware Speed-up:</h4>
+  <h3>Hardware Speed-up:</h3>
   <p>We use special hardware like GPUs and TPUs, which excel at executing complex mathematical operations quickly, thereby boosting our models' speed significantly.</p>
-  <h4>Addressing Bottlenecks:</h4>
-  <p>1. Distributed Computing: We split tasks among multiple computers using frameworks like Apache Spark or Dask, allowing us to crunch through big data sets much faster.</p>
-  <p>2. Asynchronous Processing: We handle tasks that can be done simultaneously, minimizing waiting times and ensuring uninterrupted processing of other tasks.</p>
-  <p>3. Caching: By storing data that’s accessed often, we reduce redundant work, leading to faster performance.</p>
+  <h3>Addressing Bottlenecks:</h3>
+  <h3>1. Distributed Computing: </h3>
+  <p>We split tasks among multiple computers using frameworks like Apache Spark or Dask, allowing us to crunch through big data sets much faster.</p>
+  <h3>2. Asynchronous Processing:</h3>
+  <p>We handle tasks that can be done simultaneously, minimizing waiting times and ensuring uninterrupted processing of other tasks.</p>
+  <h3>3. Caching: </h3>
+  <p>By storing data that’s accessed often, we reduce redundant work, leading to faster performance.</p>
   <h4>Scalability:</h4>
   <p>1. Scalable Design: Our system is built to grow. We use microservices, letting us expand specific parts as needed without overhauling the entire system, ensuring we can handle more data and users effortlessly.</p>
   <p>2. Horizontal Scaling: We add more machines to cope with increased demand easily, making our system capable of scaling up whenever required.</p>
   <p>3. Cloud Computing: We rely on cloud technology that provides ready access to resources, letting us expand or contract our infrastructure as needed, offering flexibility and cost savings.</p>
-</div>
+
