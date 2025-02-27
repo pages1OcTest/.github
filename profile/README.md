@@ -127,5 +127,31 @@ The rapid pace of technological advancement and globalization has created an unp
 
 <h1>Dynamic Staking with OcNest AI</h1>
 <p>What is Dynamic Staking? Dynamic staking with OcNest AI allows you to deposit and withdraw your crypto assets, specifically $OCAI, at any time without any time lock. Rewards can vary as they are not fixed by a stable APY. Instead, rewards in wrapped ETH ($wETH) are earned continuously and can be claimed whenever you prefer.</p>
+<h3>How It Works:</h3>
+<h4>1. Stake and Earn Rewards:</h4>
+<p>Earn $wETH by staking $OCAI tokens.</p>
+<p>Rewards are sourced from ETH emissions in our Ecosystem.</p>
+<p>Non-inflationary and sustainable rewards preserve value.</p>
 
+<h4>2. Dynamic APR:</h4>
+<p>The APR adjusts based on total $OCAI staked.</p>
+<p>Your earnings are proportional to your staking pool share.</p>
+<p>Rewards are calculated and distributed each second.</p>
 
+<h4>3. Regular Updates and Refills:</h4>
+<p>The rewards pool is replenished monthly.</p>
+<p>The APR is updated to reflect changes in the staking pool.</p>
+
+<h4>4. Growing Rewards Pool:</h4>
+<p>The pool can grow with increased ETH emissions.</p>
+<p>Ecosystem revenue contributes to the rewards pool.</p>
+
+<h4>Flexibility:</h4>
+<p>Stake or unstake $OCAI at any time.</p>
+<p>Suitable for both short-term and long-term strategies.</p>
+
+<h4>APR Calculation:</h4>
+<p>Your rewards depend on your proportional share of the staking pool.</p>
+<p>Reward Attribution adjusts with total staking volume changes.</p>
+
+<h3>By increasing your staked $OCAI tokens, you can enhance your share and maximize rewards.</h3>
